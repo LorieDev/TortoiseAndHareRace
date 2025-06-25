@@ -1,0 +1,2 @@
+# TortoiseAndHareRace
+gitignore for Java
